@@ -1,0 +1,6 @@
+/images/icon-dark-*.png
+/images/webstore-icon-*.png
+/images/screenshots/
+# Unfortunately this icon is not redistributable
+/images/icon-dark.svg
+/out.zip
